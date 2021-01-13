@@ -1,2 +1,2 @@
 # VBA-challenge
-VBA Homework - Homework Assignment 2 
+VBA Homework - VBA Scripts and Screenshots 
